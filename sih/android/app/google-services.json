@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946863855594",
+    "project_id": "login-page-f6c09",
+    "storage_bucket": "login-page-f6c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946863855594:android:3cfc11ff7bff19ffa4c493",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCig2kcCl6WMUxMBfTOynITTk9Mawgzhc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
